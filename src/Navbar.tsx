@@ -6,7 +6,6 @@ import {useState} from "react";
 /**
  * Menu to navigate between different lists.
  *
- * @param props The properties of the Navbar
  * @constructor
  */
 const Navbar = () => {
